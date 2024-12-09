@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.car {
+    height: 50px;
+    width: 40px;
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 2px;
+    border-style: solid;
+    border-color: #4b6cc1;
+    border-width: 2px;
+}
+
+.main {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#first {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#second {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#third {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#fourth {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#fifth {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.img {
+    height: 20vh;
+    width: 100%;
+}
+
+.back {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.head {
+    font-family: "Roboto";
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.jen {
+    font-family: "Roboto";
+    color: #4b6cc1;
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 21px;
+    color: #9aa5b1;
+}
+
+.but {
+    background-color: #4b6cc1;
+}
